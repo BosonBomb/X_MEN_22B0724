@@ -28,4 +28,4 @@ This project is a pipeline for converting normal videos into anime-styled videos
 
 ---
 
-Let me know if you need further adjustments!
+
